@@ -96,3 +96,16 @@ let g:netrw_browse_split=4 "open in prior window
 let g:netrw_altv=1 " open splits in the right
 let g:netrw_liststyle=3 " tree view
 let g:netrw_list_hide=netrw_gitignore#Hide()
+
+
+
+
+
+
+
+" SNIPPETS
+
+nnoremap ,axis_m :-1read $HOME/.vim/snippets/.axis_m.v
+nnoremap ,axis_s :-1read $HOME/.vim/snippets/.axis_s.v
+
+
