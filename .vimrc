@@ -105,7 +105,7 @@ let g:netrw_list_hide=netrw_gitignore#Hide()
 
 " SNIPPETS
 
-nnoremap ,axis_m :-1read $HOME/.vim/snippets/.axis_m.v
-nnoremap ,axis_s :-1read $HOME/.vim/snippets/.axis_s.v
+nnoremap ,axis_m :-1read $HOME/.vim/snippets/.axis_m.v<CR>
+nnoremap ,axis_s :-1read $HOME/.vim/snippets/.axis_s.v<CR>
 
 
