@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/media/narendiran/MOVIES/QOIimplementation/Images'
+let g:netrw_dirhist_0='/media/narendiran/MOVIES/QOIimplementation'
+let g:netrw_dirhist_9='/media/narendiran/MOVIES/QOIimplementation/VivadoProjects/QOI_Decoder_V1/QOI_Decoder_V1.srcs/sources_1/new'
+let g:netrw_dirhist_8='/media/narendiran/MOVIES/QOIimplementation/VivadoProjects/QOI_Decoder_V1/QOI_Decoder_V1.srcs/sources_1'
+let g:netrw_dirhist_7='/media/narendiran/MOVIES/QOIimplementation/VivadoProjects/QOI_Decoder_V1/QOI_Decoder_V1.srcs'
+let g:netrw_dirhist_6='/media/narendiran/MOVIES/QOIimplementation/VivadoProjects/QOI_Decoder_V1'
+let g:netrw_dirhist_5='/media/narendiran/MOVIES/QOIimplementation/VivadoProjects'
+let g:netrw_dirhist_4='/media/narendiran/MOVIES/QOIimplementation'
+let g:netrw_dirhist_3='/home/narendiran/newProjectLocation'
+let g:netrw_dirhist_2='/home/narendiran'
